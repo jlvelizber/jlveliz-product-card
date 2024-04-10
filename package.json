@@ -36,6 +36,16 @@
   "name": "jlveliz-product-card",
   "author": "Jorge Veliz",
   "module": "dist/jlveliz-product-card.esm.js",
+  "repository": {
+    "url": "https://github.com/jlvelizber/jlveliz-product-card",
+    "type": "git"
+  },
+  "homepage": "https://jorgeveliz.dev/",
+  "keywords": [
+    "JS",
+    "Product Card",
+    "typescript"
+  ],
   "size-limit": [
     {
       "path": "dist/jlveliz-product-card.cjs.production.min.js",
